@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "868077407506",
+    "project_id": "pokemonapp-sastaticket",
+    "storage_bucket": "pokemonapp-sastaticket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868077407506:android:f163a24bac8d75daa977cb",
+        "android_client_info": {
+          "package_name": "com.example.pokemon_app_sastaticket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868077407506-u93jn5ffqre9ajirieaq2tcfrda9jkk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClqR6GDrWBKIVcUJu9lHTwx_m42KC7LUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868077407506-u93jn5ffqre9ajirieaq2tcfrda9jkk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
